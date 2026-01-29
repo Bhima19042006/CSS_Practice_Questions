@@ -1,0 +1,15 @@
+Q1. Write the hexacode equiavlent to rgb(255, 255, 255) and tell what color is it.
+ANS:    
+        #ffffff or #fff
+
+
+Q2. write the best possible rgb and hexacode rgb and hexacode for following colors.
+    Yellow and Blue.
+ANS:
+    Yellow
+    rgb = rgb(255, 255, 0)
+    hexacode = #ffff00 or #ff0 
+
+    Bllue
+    rgb = rgb(0, 0, 255)
+    hexacode = #0000ff or #00f 
