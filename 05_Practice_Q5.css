@@ -1,0 +1,9 @@
+/* 
+Implement the following CSS for the given html document.
+
+· Set the color for paragraph inside divs with the id "myId" to green.
+*/
+
+#myId p {
+    color:green;
+}
